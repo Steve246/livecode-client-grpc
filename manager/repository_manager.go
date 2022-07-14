@@ -1,6 +1,6 @@
 package manager
 
-import "enigmacamp.com/lopei_grpc_cnlt/repository"
+import "livecode-lopei-grpc-client/repository"
 
 type RepositoryManager interface {
 	CustomerRepo() repository.CustomerRepository

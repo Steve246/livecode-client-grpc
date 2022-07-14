@@ -1,12 +1,13 @@
 package manager
 
 import (
-	"enigmacamp.com/lopei_grpc_cnlt/config"
-	"enigmacamp.com/lopei_grpc_cnlt/service"
 	"fmt"
+	"livecode-lopei-grpc-client/config"
+	"livecode-lopei-grpc-client/service"
+	"log"
+
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
-	"log"
 )
 
 type InfraManager interface {

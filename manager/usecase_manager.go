@@ -1,7 +1,7 @@
 package manager
 
 import (
-	"enigmacamp.com/lopei_grpc_cnlt/usecase"
+	"livecode-lopei-grpc-client/usecase"
 )
 
 type UseCaseManager interface {

@@ -1,6 +1,6 @@
 package usecase
 
-import "enigmacamp.com/lopei_grpc_cnlt/repository"
+import "livecode-lopei-grpc-client/repository"
 
 type CheckBalanceUseCase interface {
 	GetBalance(lopeiId int32) (float32, error)

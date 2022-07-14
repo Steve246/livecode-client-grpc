@@ -1,6 +1,6 @@
 package main
 
-import "enigmacamp.com/lopei_grpc_cnlt/delivery"
+import "livecode-lopei-grpc-client/delivery"
 
 func main() {
 	delivery.Cli().Run()

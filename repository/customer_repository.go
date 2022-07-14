@@ -2,8 +2,8 @@ package repository
 
 import (
 	"context"
-	"enigmacamp.com/lopei_grpc_cnlt/service"
 	"fmt"
+	"livecode-lopei-grpc-client/service"
 	"log"
 )
 

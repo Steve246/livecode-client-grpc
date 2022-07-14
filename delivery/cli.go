@@ -3,8 +3,8 @@ package delivery
 import (
 	"fmt"
 
-	"enigmacamp.com/lopei_grpc_cnlt/config"
-	"enigmacamp.com/lopei_grpc_cnlt/manager"
+	"livecode-lopei-grpc-client/config"
+	"livecode-lopei-grpc-client/manager"
 )
 
 type cli struct {

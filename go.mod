@@ -1,4 +1,4 @@
-module enigmacamp.com/lopei_grpc_cnlt
+module livecode-lopei-grpc-client
 
 go 1.17
 
